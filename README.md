@@ -14,9 +14,6 @@ This project focuses on analyzing 207 weeks of sales, pricing, and advertising d
 * Estimated the price elasticity and advertising elasticity for the brand.
 * Evaluated the impact of a 176% price premium on long-term market share.
 
-## 🔒 Data Privacy Note
-The dataset used in this analysis is proprietary academic data from the University of Groningen. In compliance with GDPR and institutional policies, the raw CSV files are not included in this repository. This script is intended to demonstrate the analytical methodology and R programming proficiency.
-
 ## Tech Stack
 * **Language:** R
 * **Main Libraries:** `vars`, `tseries`, `stats`
